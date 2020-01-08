@@ -5,3 +5,9 @@ db.json
 node_modules/
 public/
 .deploy*/
+.idea/
+*.log
+*.iml
+yarn.lock
+package-lock.json
+tags
